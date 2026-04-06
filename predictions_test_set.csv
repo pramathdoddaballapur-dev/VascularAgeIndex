@@ -1,0 +1,21 @@
+Sample Name,Actual_Age_months,Predicted_Age_months_regressor,Predicted_Age_group_classifier,Correct
+RPA_M24mo_1,6,9.1,6mo,1
+RPA_M24mo_2,12,5.9,3mo,0
+RPA_M24mo_3,18,21.5,24mo,0.5
+RPA_M24mo_4,6,10.5,12mo,0.5
+RPA_F24mo_1,3,4.8,3mo,1
+RPA_F24mo_2,27,15.3,6mo,0
+RPA_F24mo_3,12,15.4,12mo,1
+RPA_F24mo_4,24,13.4,12mo,0
+RPA_F24mo_5,6,6,6mo,1
+RPA_F24mo_6,6,10.1,6mo,1
+RPA_F24mo_7,12,9.6,12mo,1
+RPA_F24mo_8,18,14.6,18mo,1
+RPA_F24mo_9,12,15.5,12mo,1
+RPA_F24mo_10,24,23.6,24mo,1
+RPA_M27mo_1,3,5,3mo,1
+RPA_M27mo_2,3,13.4,24mo,0
+RPA_M27mo_3,24,15,12mo,0
+RPA_M27mo_4,12,12.6,12mo,1
+RPA_M27mo_5,18,15.4,12mo,0.5
+,,,,0.657894737
